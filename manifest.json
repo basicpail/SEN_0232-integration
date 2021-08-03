@@ -1,0 +1,9 @@
+{
+    "version":"0.1.0",
+    "domain": "SoundLevelMeter",
+    "name": "SoundLevelMeter",
+    "config_flow": true,
+    "documentation": "",
+    "requirements": [],
+    "codeowners": ["@ssg"]
+  }
